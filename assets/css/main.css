@@ -389,9 +389,7 @@ ul.icons {
     ul.icons li a {
       color: inherit; }
 
-/* Form */
-form {
-  margin: 0 0 2em 0; }
+
   form .message {
     text-decoration: none;
     -moz-transition: opacity 0.5s ease-in-out, -moz-transform 0.2s ease-in-out;
@@ -405,6 +403,7 @@ form {
     height: 2.75em;
     line-height: 2.75em;
     opacity: 50; }
+    
     form .message:before {
       -moz-osx-font-smoothing: grayscale;
       -webkit-font-smoothing: antialiased;
