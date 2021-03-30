@@ -725,12 +725,12 @@ body {
 
 .cursor {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 150%;
+  left: 150%;
   /* border: 2px solid white; */
   /* background-color: rgba(255, 255, 255, 0.356); */
-  height: 30px;
-  width: 30px;
+  height: 28px;
+  width: 28px;
   border-radius: 50px;
   transform: translate(-50%, -50%);
   pointer-events: none;
@@ -743,9 +743,19 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
-  height: 40px;
-  width: 40px;
+  height: 28px;
+  width: 28px;
   border-radius: 50px;
+}
+@keyframes cursor {
+  0% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(7);
+  }
 }
 .cursor::before {
   background-color: rgb(255, 255, 255);
