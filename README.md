@@ -1,5 +1,5 @@
 # Personal-Website
-## Welcome! We are adopting a new look for our old website.
+## 👋 Hey, Welcome to my Personal Website!
 
 Netifly Link:https://ericzhu.netlify.app/
 
