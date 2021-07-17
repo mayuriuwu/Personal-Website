@@ -8,7 +8,7 @@ Academia Edge Website: https://ericzhu.dev/
 Made with ❤️ by Eric Zhu.
 > Feel free to use this as an inspiration for your personal website or leave pull requests!
 
->Made by inspiration by https://www.dylaniskandar.com/
+>Made by inspiration from https://www.dylaniskandar.com/
 
 
 
