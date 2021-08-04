@@ -6,9 +6,8 @@ Netifly Link:https://ericzhu.netlify.app/
 Website: https://ericzhu.dev/
 
 Made with ❤️ by Eric Zhu.
-> Feel free to use this as an inspiration for your personal website or leave pull requests!
 
->Made by inspiration from https://www.dylaniskandar.com/
+>Website from https://www.dylaniskandar.com/
 
 
 
